@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Linho1150's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linho1150)
-![Most Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact)](https://github.com/Linho1150)
+![Most Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact)
 
 
 <!--
