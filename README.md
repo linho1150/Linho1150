@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-![Linho1150's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linho1150&hide=contribs,prs)
-![Most Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact)
-
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Linho1150&hide=contribs,prs" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>  
+<br/>
 
 <!--
 **Linho1150/Linho1150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
