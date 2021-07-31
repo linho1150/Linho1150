@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linho1150's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linho1150)]
+
 <!--
 **Linho1150/Linho1150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
