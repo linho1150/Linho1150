@@ -4,12 +4,9 @@
 </div>
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Linho1150" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="center"/>
+</div>
 
 <!--
 **Linho1150/Linho1150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
