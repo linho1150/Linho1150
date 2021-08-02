@@ -3,8 +3,8 @@
 </div>
 
 ## Hi there 👋
-RPA LEAGUE 2019 SEOUL second place / 2019.11 / Hackathon from RPA developer Uipath <br>
-COALAUNIV 2th / 2019.09 ~ 2020.03 / data science study
+##### [ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_
+##### [ COALAUNIV 2th ] _data science study_
 
 
 ## Language
