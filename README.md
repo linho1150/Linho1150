@@ -3,11 +3,12 @@
 </div>
 
 ## Hi there 👋
-<b>[ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_<b><br>
-<b>[ COALAUNIV 2th ] _data science study_<b>
-
-
-## Language
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="center"/>
 </div>
+<br>
+
+<b>[ Likelion MJU 9th ] <b><br>
+<b>[ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_<b><br>
+<b>[ COALAUNIV 2th ] _data science study_<b>
