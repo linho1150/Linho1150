@@ -3,21 +3,11 @@
 </div>
 
 ## Hi there 👋
+RPA LEAGUE 2019 SEOUL second place / 2019.11 / Hackathon from RPA developer Uipath
+COALAUNIV 2th / 2019.09 ~ 2020.03 / data science study
+
+
+## Language
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="center"/>
 </div>
-
-<!--
-**Linho1150/Linho1150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
