@@ -12,3 +12,7 @@
 <b>[ Likelion MJU 9th ] <b><br>
 <b>[ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_<b><br>
 <b>[ COALAUNIV 2th ] _data science study_<b>
+<b>[ the 26th Korea Olympiad in Informatics ]<b>
+<b>[ the 27th Korea Olympiad in Informatics ]<b>
+<b>[ the 28th Korea Olympiad in Informatics ]<b>
+<b>[ the 23rd Global Software Contest ]<b>
