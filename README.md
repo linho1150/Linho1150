@@ -38,6 +38,7 @@
 <!--
 https://simpleicons.org/
 -->
+
 <b>[ Likelion MJU 9th ] <b><br>
 <b>[ COALAUNIV 2th ] _data science study_<b><br>
 <b>[ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_<b><br>
