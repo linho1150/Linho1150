@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=linho1150&&style=flat-square" align="right" />
 </div>
 
-## Hi there 👋
+## Hi there👋
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="center"/>
