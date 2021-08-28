@@ -41,8 +41,8 @@
 https://simpleicons.org/
 -->
 
-<b>[ Likelion MJU 9th ] <b><br>
-<b>[ COALAUNIV 2th ] _data science study_<b><br>
+<b>[ Likelion MJU 9th ] _Development of Django Web Services and Hackathon_<b><br>
+<b>[ COALAUNIV 2th ] _Data analysis and machine learning training with hackathon_<b><br>
 <b>[ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_<b><br>
 ---
 <b>[ Seoul Women's University Information Security Gifted Education Center - Professional Class 1 ]<b><br>
