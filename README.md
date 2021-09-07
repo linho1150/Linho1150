@@ -34,13 +34,13 @@
 <!--
 https://simpleicons.org/
 -->
-
-
+<hr>
+<b>[ Action Learning Data Driven with ablearn ] _Solving small enterprises problems with data analysis_<b><br>
 <b>[ Likelion 9th ] _Development of Django Web Services and Hackathon_<b><br>
 <b>[ KRuniv.com ] _Competition rate and gender ratio of majors by year_<b><br>
 <b>[ COALAUNIV 2th ] _Data analysis and machine learning training with hackathon_<b><br>
 <b>[ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_<b><br>
----
+<hr>
 <b>[ Seoul Women's University Information Security Gifted Education Center - Professional Class 1 ]<b><br>
 <b>[ the 24th Korea Olympiad in Informatics_Seoul ]<b><br>
 <b>[ the 25th Korea Olympiad in Informatics_Seoul ]<b><br>
