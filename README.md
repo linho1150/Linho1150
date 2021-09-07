@@ -35,18 +35,18 @@
 https://simpleicons.org/
 -->
 <hr>
-<b>[ Action Learning Data Driven with ablearn ] _Solving small enterprises problems with data analysis_<b><br>
-<b>[ Likelion 9th ] _Development of Django Web Services and Hackathon_<b><br>
-<b>[ KRuniv.com ] _Competition rate and gender ratio of majors by year_<b><br>
-<b>[ COALAUNIV 2th ] _Data analysis and machine learning training with hackathon_<b><br>
-<b>[ RPA LEAGUE 2019 SEOUL ] _Second in Hackathon by RPA developer Uipath_<b><br>
+[ Action Learning Data Driven with ablearn ] Solving small enterprises problems with data analysis<br>
+[ Likelion 9th ] Development of Django Web Services and Hackathon<br>
+[ KRuniv.com ] Competition rate and gender ratio of majors by year<br>
+[ COALAUNIV 2th ] Data analysis and machine learning training with hackathon<br>
+[ RPA LEAGUE 2019 SEOUL ] Second in Hackathon by RPA developer Uipath<br>
 <hr>
-<b>[ Seoul Women's University Information Security Gifted Education Center - Professional Class 1 ]<b><br>
-<b>[ the 24th Korea Olympiad in Informatics_Seoul ]<b><br>
-<b>[ the 25th Korea Olympiad in Informatics_Seoul ]<b><br>
-<b>[ the 26th Korea Olympiad in Informatics ]<b><br>
-<b>[ the 27th Korea Olympiad in Informatics ]<b><br>
-<b>[ the 28th Korea Olympiad in Informatics ]<b><br>
-<b>[ the 23rd Global Software Contest ]<b>
+[ Seoul Women's University Information Security Gifted Education Center - Professional Class 1 ]<br>
+[ the 24th Korea Olympiad in Informatics_Seoul ]<br>
+[ the 25th Korea Olympiad in Informatics_Seoul ]<br>
+[ the 26th Korea Olympiad in Informatics ]<br>
+[ the 27th Korea Olympiad in Informatics ]<br>
+[ the 28th Korea Olympiad in Informatics ]<br>
+[ the 23rd Global Software Contest ]
 
 
