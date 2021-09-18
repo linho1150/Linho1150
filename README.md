@@ -1,16 +1,9 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=linho1150&&style=flat-square" align="right" />
-</div>
-
 ## 👋 linho.kr
-
-<!--<br><div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="center"/>
-</div><br><<>>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linho1150&layout=compact" align="center"/>
-
+<hr>
 <p align="">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -18,9 +11,8 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/>
+
   <br>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/>
