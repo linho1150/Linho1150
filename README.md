@@ -19,13 +19,3 @@ https://simpleicons.org/
 [ KRuniv.com ] Competition rate and gender ratio of majors by year<br>
 [ COALAUNIV 2th ] Data analysis and machine learning training with hackathon<br>
 [ RPA LEAGUE 2019 SEOUL ] Second in Hackathon by RPA developer Uipath<br>
-<hr>
-[ Seoul Women's University Information Security Gifted Education Center - Professional Class 1 ]<br>
-[ the 24th Korea Olympiad in Informatics_Seoul ]<br>
-[ the 25th Korea Olympiad in Informatics_Seoul ]<br>
-[ the 26th Korea Olympiad in Informatics ]<br>
-[ the 27th Korea Olympiad in Informatics ]<br>
-[ the 28th Korea Olympiad in Informatics ]<br>
-[ the 23rd Global Software Contest ]
-
-
