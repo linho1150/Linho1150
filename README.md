@@ -9,12 +9,10 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/>
 </p>
-<!--
-https://simpleicons.org/
--->
+<!--https://simpleicons.org/-->
 <hr>
-[ Action Learning Data Driven with ablearn ] Solving small enterprises problems with data analysis<br>
-[ Likelion 9th ] Development of Django Web Services and Hackathon<br>
-[ KRuniv.com ] Competition rate and gender ratio of majors by year<br>
-[ COALAUNIV 2th ] Data analysis and machine learning training with hackathon<br>
-[ RPA LEAGUE 2019 SEOUL ] Second in Hackathon by RPA developer Uipath<br>
+🏆 RPA LEAGUE 2019 SEOUL
+⌨️ KRuniv.com<br>
+🤝 Action Learning Data Driven with ablearn<br>
+🤝 Likelion 9th<br>
+🤝 COALAUNIV 2th<br>
