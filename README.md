@@ -11,7 +11,7 @@
 </p>
 <!--https://simpleicons.org/-->
 <hr>
-🏆 RPA LEAGUE 2019 SEOUL
+🏆 RPA LEAGUE 2019 SEOUL<br>
 ⌨️ KRuniv.com<br>
 🤝 Action Learning Data Driven with ablearn<br>
 🤝 Likelion 9th<br>
