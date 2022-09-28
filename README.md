@@ -11,11 +11,16 @@
 </p>
 <!--https://simpleicons.org/-->
 <hr>
-🏆 RPA LEAGUE 2019 SEOUL<br>
+🏆 RPA LEAGUE 2019 Uipath SEOUL<br>
 🤝 GDSC MJU Lead 1st<br>
-🤝 BOAZ 19th<br>
-🤝 Prography 7th<br>
-🤝 Action Learning Data Driven with ablearn<br>
-🤝 Likelion 9th<br>
-🤝 COALAUNIV 2th<br>
+🤝 BOAZ 19th Data Engineering<br>
+🤝 Prography 7th Backend Developer<br>
+🤝 Likelion 9th Backend Developer<br>
+🤝 COALAUNIV 2th Data Analysis<br>
 ☁ KRuniv.github.io<br>
+<hr>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tistory-e94c17?style=flat-square&logo=tistory&link=https://linho.kr/)](https://linho.kr/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaejun-lee-333032230/)](https://www.linkedin.com/in/jaejun-lee-333032230/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linho301150@gmail.com)](mailto:linho301150@gmail.com)
+	
