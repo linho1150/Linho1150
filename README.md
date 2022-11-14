@@ -3,6 +3,22 @@
   "name": "LeeJaeJun",
   "email": "linho301150@gmail.com",
   "url": "https://linho.kr",
+  "team": [
+    "Dynamic Designer Developer DDD Backend Developer",
+    "Myongji metaverse Design School Developer",
+    "GDSC MJU 1st Lead",
+    "BOAZ 19th Data Engineering",
+    "Prography 7th Backend Developer",
+    "Likelion 9th Backend Developer",
+    "COALAUNIV 2th Data Analysis",
+  ]
+}
+```
+<!-- ```json
+{
+  "name": "LeeJaeJun",
+  "email": "linho301150@gmail.com",
+  "url": "https://linho.kr",
   "awardRecord": [
     "🏆 RPA LEAGUE 2019 Uipath SEOUL",
     "STEAM Start-up Capacity Enhancement Camp in MyongJi"
@@ -43,7 +59,7 @@
     "MyongJi metaverse Design School"
   ]
 }
-```
+``` -->
 <!--
 <p align="">
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
@@ -75,9 +91,3 @@
 🤝 COALAUNIV 2th Data Analysis<br>
 ☁ KRuniv.github.io<br>
 <hr>-->
-
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tistory-e94c17?style=flat-square&logo=tistory&link=https://linho.kr/)](https://linho.kr/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaejun-lee-333032230/)](https://www.linkedin.com/in/jaejun-lee-333032230/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linho301150@gmail.com)](mailto:linho301150@gmail.com)
-	
