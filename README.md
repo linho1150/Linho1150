@@ -3,6 +3,11 @@
   "name": "LeeJaeJun",
   "email": "linho301150@gmail.com",
   "url": "https://linho.kr",
+  "company": [
+    "Amazon corporate services korea",
+    "Qraft Technologies",
+    "Enlighten",
+  ],
   "team": [
     "Dynamic Designer Developer DDD Backend Developer",
     "Myongji metaverse Design School Developer",
