@@ -4,7 +4,7 @@
   "email": "linho301150@gmail.com",
   "url": "https://linho.kr",
   "company": [
-    "Amazon corporate services korea",
+    "Amazon web services korea",
     "Qraft Technologies",
     "Enlighten",
   ],
