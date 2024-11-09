@@ -12,8 +12,6 @@
     "Dynamic Designer Developer DDD Backend Developer",
     "BOAZ 19th Data Engineering",
     "Prography 7th Backend Developer",
-    "Likelion 9th Backend Developer",
-    "COALAUNIV 2th Data Analysis",
   ]
 }
 ```
