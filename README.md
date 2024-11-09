@@ -10,8 +10,6 @@
   ],
   "team": [
     "Dynamic Designer Developer DDD Backend Developer",
-    "Myongji metaverse Design School Developer",
-    "GDSC MJU 1st Lead",
     "BOAZ 19th Data Engineering",
     "Prography 7th Backend Developer",
     "Likelion 9th Backend Developer",
