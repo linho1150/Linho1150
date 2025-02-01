@@ -4,6 +4,7 @@
   "email": "linho301150@gmail.com",
   "url": "https://linho.kr",
   "company": [
+    "Sionic AI"
     "Amazon web services korea",
     "Qraft Technologies",
     "Enlighten",
